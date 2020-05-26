@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jannik mag Raed
 =======
 Mona
@@ -8,3 +9,7 @@ Weinrich
 =======
 HALLOICHBINMAGNUS
 >>>>>>> 58b08f62ef19a55149a0440fcd72979c32a904f8
+=======
+HALLOICHBINMAGNUS
+hier was reinschreiben
+>>>>>>> 3e3d3bc9ec410b3842cd0d4671f08b92d3cfaaae
