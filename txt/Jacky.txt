@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jannik mag Raed
 =======
 Mona
 >>>>>>> 1e8283e49432803f7efce357d4fd4a551871f9c9
 Weinrich
+=======
+HALLOICHBINMAGNUS
+>>>>>>> 58b08f62ef19a55149a0440fcd72979c32a904f8
